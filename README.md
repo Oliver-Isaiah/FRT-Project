@@ -1,6 +1,6 @@
 # FRT-Project
 This is my final Future Ready Talent project based on web-hosting
-Azure Deployment link:
+Azure Deployment link: https://witty-hill-0e0c75710.1.azurestaticapps.net
 
 AZURE DEPLOYMENT PAGE
 
