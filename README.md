@@ -3,6 +3,8 @@ This is my final Future Ready Talent project based on web-hosting
 Azure Deployment link: https://witty-hill-0e0c75710.1.azurestaticapps.net
 
 AZURE DEPLOYMENT PAGE
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/91405313/174947901-c117dc9a-47b4-4c56-be27-a6f9f0ac42d9.png">
+
 
 HOME PAGE
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91405313/174824664-9af4b649-1b30-462a-b985-0fb20d0e5e7f.png">
